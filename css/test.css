@@ -1,0 +1,21 @@
+body{background-color: lightblue}
+h1 {
+font-size: 40px;
+color: teal;
+}
+h2{
+color: pink;
+}
+.big {
+font-size: 90px
+}
+.uppercase{
+text-transform: uppercase;
+}
+
+.rightalign{
+text-align: right;
+}
+h1 span{
+color:violet;
+}
