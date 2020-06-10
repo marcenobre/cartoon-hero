@@ -1,10 +1,10 @@
-body{background-color: lightblue}
+body{background-color: #C4EDF5}
 h1 {
 font-size: 40px;
 color: teal;
 }
 h2{
-color: pink;
+color: #2C3E50;
 }
 .big {
 font-size: 90px
@@ -16,6 +16,6 @@ text-transform: uppercase;
 .rightalign{
 text-align: right;
 }
-h1 span{
-color:violet;
+.centeralign{
+	text-align: center;
 }
